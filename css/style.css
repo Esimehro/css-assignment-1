@@ -1,0 +1,36 @@
+h1{
+  font-size: 18px;
+}
+
+.section-1{
+  color: green;
+  font-size: 14px;
+  border: 3px solid rgb(142, 214, 158);
+  padding: 20px;
+  margin: 20px 86px;
+}
+
+.section-2{
+  color: red;
+  font-size: 14px;
+  border: 3px solid rgb(230, 124, 124);
+  padding: 20px;
+  margin: 20px 86px;
+}
+
+.section-3{
+  color: blue;
+  font-size: 14px;
+  border: 3px solid rgb(138, 151, 189);
+  padding: 20px;
+  margin: 20px 86px;
+}
+
+h5{
+  margin-bottom: -5px;
+}
+
+h3{
+  margin-bottom: -7px;
+}
+
